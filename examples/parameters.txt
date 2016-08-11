@@ -1,0 +1,7 @@
+objective_reactions=R_ETOHt2r R_Biomass_Ecoli_core
+normalization_reactions=R_GLCpts
+normalization_constraints=1
+population_size=10
+max_iterations=50
+max_knockout_size=
+threads=
