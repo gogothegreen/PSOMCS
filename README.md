@@ -8,24 +8,17 @@ Table of Contents
 =================
 1. [Installation](#Installation)
 2. [Examples](#Examples)
-3. [The program](#the program)
+3. [The program](#The program)
    * psomcs.pl
    * fba.pl
 4. Author
 5. Copyright and License
 
 # <a name="Installation"></a>Installation
-Scripts to run the program are in the folder **_scripts_**. Running the program requires C\
-hristian Jungreuthmayer's [Math::CPLEX](https://homepage.boku.ac.at/jungreuthc/) perl modu\
-le to be installed. It's also necessary to have the [IBM ILOG CPLEX Optimization Studio](h\
-ttp://www-03.ibm.com/software/products/en/ibmilogcpleoptistud) installed on the system run\
-ning this program. The scripts can be executed without compilation. Use the -h option for \
-the help page.
+Scripts to run the program are in the folder **_scripts_**. Running the program requires Christian Jungreuthmayer's [Math::CPLEX](https://homepage.boku.ac.at/jungreuthc/) perl module to be installed. It's also necessary to have the [IBM ILOG CPLEX Optimization Studio](http://www-03.ibm.com/software/products/en/ibmilogcpleoptistud) installed on the system running this program. The scripts can be executed without compilation. Use the -h option for the help page.
 
 # <a name="Examples"></a>Examples
-A relatively small example using the *E. coli* core network (Trinh 2008) modified to grow \
-anaerobically on glucose. The relevant files are in the folder **_examples_**. The output \
-files will also be written to this folder.
+A relatively small example using the *E. coli* core network (Trinh 2008) modified to grow anaerobically on glucose. The relevant files are in the folder **_examples_**. The output files will also be written to this folder.
 
 # <a name="the program"></a>The program
 
