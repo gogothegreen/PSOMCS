@@ -38,7 +38,7 @@ s while the uptake reactions are limited by the 'normalization_constraints' para
 ```
 
 # <a name="author"></a>Author
-Govind Nair [govind.nair@boku.ac.at](mailto:govind.nair@boku.ac.at)
+Govind Nair [govind83nair@gmail.com](mailto:govind83nair@gmail.com)
 
 # <a name="copyright and license"></a>Copyright and License
 
